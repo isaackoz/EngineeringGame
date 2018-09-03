@@ -47,6 +47,30 @@
             }
         },
         {
+            "Key": "17d51d6f-0b98-4726-aecd-e2b84537a857",
+            "Value": {
+                "id": "36cb75db-9df0-4dbf-8f5b-f73ebc3781b0",
+                "resourcePath": "rooms\\rm_desert\\rm_desert.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "19b5066f-30e5-4eb7-9e47-2b642744303a",
+            "Value": {
+                "id": "f676e05b-79c7-4160-b842-42e7615bb7fa",
+                "resourcePath": "rooms\\rm_dungeon\\rm_dungeon.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2a91521e-6cfa-4711-a73b-26eac6ff7fc7",
+            "Value": {
+                "id": "70887117-c0e8-451a-a749-867be84e0e10",
+                "resourcePath": "tilesets\\tset_dungeon\\tset_dungeon.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "32c96629-bbbb-4d63-92bb-db60a46c40e3",
             "Value": {
                 "id": "647bf8e8-e3c3-44fe-9375-365b51c702b1",
@@ -234,7 +258,7 @@
             "Key": "9ab536f2-1944-4c57-9181-42e1c79caf5f",
             "Value": {
                 "id": "f59be4a9-1042-497e-a5e0-9a9106e3dfda",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_base\\rm_base.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -268,6 +292,14 @@
                 "id": "1e1d0ba4-1231-41f9-8111-1899d76ad6a5",
                 "resourcePath": "objects\\obj_juan\\obj_juan.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "adc066a8-706c-4f15-9282-d2edf6c61a25",
+            "Value": {
+                "id": "9e820b08-3d80-4ac6-99f1-0c90c423d238",
+                "resourcePath": "sprites\\spr_tset_dungeon\\spr_tset_dungeon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,6 +343,14 @@
             }
         },
         {
+            "Key": "c99169ad-a71a-4c00-b9dc-e876e8a7e66f",
+            "Value": {
+                "id": "acb5ca34-0baa-44d9-9adb-1649bc1172e7",
+                "resourcePath": "rooms\\rm_dump\\rm_dump.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c9c3d27a-c1bf-41ea-b0cc-f7564a366de1",
             "Value": {
                 "id": "ea576290-94c4-40ef-8c33-fe38affee128",
@@ -332,6 +372,22 @@
                 "id": "e7e4051c-f174-4944-a33e-6bad1c8be733",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d5b102c7-e540-4f38-b700-fceede430d21",
+            "Value": {
+                "id": "51f330a7-decb-41e0-bef7-e97264a853b7",
+                "resourcePath": "rooms\\rm_grocery\\rm_grocery.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "db879323-b115-4c42-b6cf-eed02d10e169",
+            "Value": {
+                "id": "c3d98ae5-cda7-4cea-911d-6a2d35d93130",
+                "resourcePath": "rooms\\rm_forest\\rm_forest.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -364,6 +420,14 @@
                 "id": "4b33fcf1-a1e5-4b26-b9ad-2c43e24f2106",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f753813b-a9de-4e2f-9b10-00e7086e680c",
+            "Value": {
+                "id": "faf5c7b6-2473-441f-8abc-c098e9af394e",
+                "resourcePath": "views\\9ab536f2-1944-4c57-9181-42e1c79caf5f-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
