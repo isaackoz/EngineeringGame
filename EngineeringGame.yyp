@@ -47,27 +47,19 @@
             }
         },
         {
-            "Key": "17d51d6f-0b98-4726-aecd-e2b84537a857",
-            "Value": {
-                "id": "36cb75db-9df0-4dbf-8f5b-f73ebc3781b0",
-                "resourcePath": "rooms\\rm_desert\\rm_desert.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "19b5066f-30e5-4eb7-9e47-2b642744303a",
-            "Value": {
-                "id": "f676e05b-79c7-4160-b842-42e7615bb7fa",
-                "resourcePath": "rooms\\rm_dungeon\\rm_dungeon.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "2a91521e-6cfa-4711-a73b-26eac6ff7fc7",
             "Value": {
                 "id": "70887117-c0e8-451a-a749-867be84e0e10",
                 "resourcePath": "tilesets\\tset_dungeon\\tset_dungeon.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "2f4217f1-8a5d-43f8-8be2-20eadd69bce3",
+            "Value": {
+                "id": "fa2efc81-24e9-4977-a6b5-e7cc0edfc369",
+                "resourcePath": "views\\a4f70a30-c7d6-41f3-a7ad-28820269cde2-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -231,6 +223,14 @@
             }
         },
         {
+            "Key": "87bc9f38-3ff2-405f-9832-34e9a506ad27",
+            "Value": {
+                "id": "3a817e5f-62ef-403f-87fb-f80d3f864f2b",
+                "resourcePath": "rooms\\rm_desert\\rm_desert.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8dd49d6c-4ec0-41e0-975b-c26489eed279",
             "Value": {
                 "id": "240b7ddf-366d-4402-a1d9-07058fb69e91",
@@ -255,14 +255,6 @@
             }
         },
         {
-            "Key": "9ab536f2-1944-4c57-9181-42e1c79caf5f",
-            "Value": {
-                "id": "f59be4a9-1042-497e-a5e0-9a9106e3dfda",
-                "resourcePath": "rooms\\rm_base\\rm_base.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "9ea8b153-4fe1-497f-8859-ac7781cb454a",
             "Value": {
                 "id": "87acc080-4530-45b4-9511-8661776dbbee",
@@ -276,6 +268,14 @@
                 "id": "606e3a7a-eb4d-4f48-8e28-b39581b2d055",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a4f70a30-c7d6-41f3-a7ad-28820269cde2",
+            "Value": {
+                "id": "ab4058b0-c149-412f-b342-0685446cf2c0",
+                "resourcePath": "rooms\\rm_base\\rm_base.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -343,14 +343,6 @@
             }
         },
         {
-            "Key": "c99169ad-a71a-4c00-b9dc-e876e8a7e66f",
-            "Value": {
-                "id": "acb5ca34-0baa-44d9-9adb-1649bc1172e7",
-                "resourcePath": "rooms\\rm_dump\\rm_dump.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "c9c3d27a-c1bf-41ea-b0cc-f7564a366de1",
             "Value": {
                 "id": "ea576290-94c4-40ef-8c33-fe38affee128",
@@ -372,22 +364,6 @@
                 "id": "e7e4051c-f174-4944-a33e-6bad1c8be733",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "d5b102c7-e540-4f38-b700-fceede430d21",
-            "Value": {
-                "id": "51f330a7-decb-41e0-bef7-e97264a853b7",
-                "resourcePath": "rooms\\rm_grocery\\rm_grocery.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "db879323-b115-4c42-b6cf-eed02d10e169",
-            "Value": {
-                "id": "c3d98ae5-cda7-4cea-911d-6a2d35d93130",
-                "resourcePath": "rooms\\rm_forest\\rm_forest.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
