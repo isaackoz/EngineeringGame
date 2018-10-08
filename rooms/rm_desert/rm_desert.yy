@@ -38,6 +38,33 @@
             "visible": true
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances_1",
+            "id": "f432b94e-fb22-41a2-95f9-a12f18c525b7",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_6B5154A1","id": "17e23a4e-3f9a-4469-a45d-669ac2a95d5d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "37b273e3-fe98-49f0-92a7-b57759a9d623","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6B5154A1","objId": "136752c4-398a-4aba-8fd3-4ce641889d5b","properties": null,"rotation": 0,"scaleX": 121,"scaleY": 63,"mvc": "1.0","x": 0,"y": 0},
+{"name": "inst_73939F29","id": "bcb100bd-9e27-4185-aadf-10cc482f3897","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "b2cb4084-6b2b-4b2e-b5d7-0c6347264385","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_73939F29","objId": "6599dcfb-301c-4a87-9085-848e13eae5b2","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1184,"y": 448}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "93c0d500-e7e3-4d35-b938-43e91185bcce",
