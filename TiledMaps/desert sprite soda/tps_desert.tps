@@ -34,7 +34,7 @@
         <key>dataFormat</key>
         <string>spritesheet-only</string>
         <key>textureFileName</key>
-        <filename></filename>
+        <filename>../../../../../Desktop/desertmaptile.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrCompressionQuality</key>
@@ -175,8 +175,11 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">../../../../Desktop/378e26d5-fd56-491b-98b8-f60443623b9a.png</key>
-            <key type="filename">../../../../Desktop/New folder/Cactus.png</key>
+            <key type="filename">../cactus.png</key>
+            <key type="filename">../cactus1.png</key>
+            <key type="filename">../cactus2.png</key>
+            <key type="filename">../sand.png</key>
+            <key type="filename">../wall.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -192,8 +195,11 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>../../../../Desktop/378e26d5-fd56-491b-98b8-f60443623b9a.png</filename>
-            <filename>../../../../Desktop/New folder/Cactus.png</filename>
+            <filename>../cactus2.png</filename>
+            <filename>../sand.png</filename>
+            <filename>../wall.png</filename>
+            <filename>../cactus.png</filename>
+            <filename>../cactus1.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

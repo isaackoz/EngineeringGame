@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "06f54379-adec-430e-9cc9-da161cab3b7f",
+            "Value": {
+                "id": "bd70f170-9278-4fe7-be83-9927479cc800",
+                "resourcePath": "tilesets\\tset_desert\\tset_desert.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "136752c4-398a-4aba-8fd3-4ce641889d5b",
             "Value": {
                 "id": "369153af-3fc2-4505-bc0c-924d990af64a",
@@ -52,6 +60,22 @@
                 "id": "70887117-c0e8-451a-a749-867be84e0e10",
                 "resourcePath": "tilesets\\tset_dungeon\\tset_dungeon.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "2ae79b5f-7be1-4762-9932-81c949846717",
+            "Value": {
+                "id": "ef4624b4-51de-46e7-865b-70fc76571dcf",
+                "resourcePath": "rooms\\desert\\desert.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2b0ef588-f267-4330-9fbc-2a76d6347edd",
+            "Value": {
+                "id": "c24aecc2-d48f-4e2e-9b89-4a2553039168",
+                "resourcePath": "sprites\\spr_tset_desert\\spr_tset_desert.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -396,14 +420,6 @@
                 "id": "4b33fcf1-a1e5-4b26-b9ad-2c43e24f2106",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f753813b-a9de-4e2f-9b10-00e7086e680c",
-            "Value": {
-                "id": "faf5c7b6-2473-441f-8abc-c098e9af394e",
-                "resourcePath": "views\\9ab536f2-1944-4c57-9181-42e1c79caf5f-room.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
